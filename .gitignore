@@ -92,6 +92,7 @@ tools/test-runner
 tools/check-selftest
 tools/mcaptest
 tools/bneptest
+tools/btmidi-server
 test/sap_client.pyc
 test/bluezutils.pyc
 unit/test-ringbuf
